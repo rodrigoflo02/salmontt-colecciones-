@@ -1,5 +1,0 @@
-Centro Calbuco;Calbuco;2
-Centro Frutillar;Frutillar;5
-Centro Llanquigue;Llanquihue;10
-Centro Puerto Montt;Puerto Montt;11
-Centro Cochamo;Cochamo;3
