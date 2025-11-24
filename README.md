@@ -14,6 +14,6 @@ Instrucciones
 1- Clone el repositorio desde Github https://github.com/rodrigoflo02/salmontt-colecciones-.git 
 2- Abrir el proyecto con Intellij Idea
 3- En menu, abrir el proyecto seleccionando la carpeta de este
-4- Si desea modificar los nombres de centros u otro dato correspondiente al proyecto dirijase al directorio "resources" en el panel izquierdo, abra el archivo "centros.txt" y podrá modificar los datos a su eleccion siempre respetando la separacion por ";" y las secciones permitidas (nombre, comuna, numero entero)
-5- En caso de modificar el nombre del archivo txt, debe modificar el nombre del archivo txt en la linea 16 de la clase "Main"
-6- Ejecutar el Archivo Main.java desde el paquete App (Ctrl + F5).
+4- Si Desea agregar mas areas use el comando Areas.add("Nombre Area")
+5- Si desea trabajar con un excel propio asegurese de que cumpla el mismo formato en las 2 hojas e instalar el archivo en el repositorio del proyecto (Se aplica el mismo caso para archivos CSV)
+6- Ejecutar el Archivo Main.java desde el paquete UI (Ctrl + F5).
